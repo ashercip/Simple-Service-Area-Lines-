@@ -1,5 +1,5 @@
 # Simple-Service-Area-Lines
-Service area (population/employment) calculator for 0.5 buffer from lines/polylines using as the crow flies radii.
+Service area (population/employment) calculator for 0.5 mile buffers from lines/polylines using as the crow flies radii.
 Developed by Asher Cipinko for Kimley-Horn, May 2025
 
 To use:
